@@ -7,7 +7,7 @@ public class CountRepetedChar {
 
     public static void main(String[] args) {
 
-        String name = "Akshaya";
+        String name = "Akshaya mahanty";
 
         Map<Character,Integer> map = new HashMap<>();
         for(Character c : name.toLowerCase().toCharArray()){
